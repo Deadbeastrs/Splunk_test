@@ -1,1 +1,1 @@
-{"lookups": []}
+{"lookups": [{"name": "test_lookup", "description": "A list of domains from the 3CX supply chain attack.", "collection": null, "fields_list": null, "filename": "3cx_ioc_domains.csv", "default_match": "false", "match_type": "WILDCARD(domain)", "min_matches": 1, "case_sensitive_match": "false"}]}
