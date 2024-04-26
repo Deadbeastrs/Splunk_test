@@ -1,1 +1,1 @@
-{"macros": [{"definition": "search *", "description": "Update this macro to limit the output results to filter out false positives.", "name": "linux_abonormal_number_of_ssh_authentications_on_distinct_hosts_filter"}]}
+{"macros": [{"definition": "search *", "description": "Update this macro to limit the output results to filter out false positives.", "name": "linux_abnormal_number_of_ssh_authentications_on_distinct_hosts_filter"}]}
